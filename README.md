@@ -48,5 +48,6 @@ typedef struct MaxHeap {
 } MaxHeap;
 ```
 
-authors: @mammadova04 (Narmin Mammadova)
-@Raid-dev (Rauf Ahmadzada)
+# Authors
+
+@mammadova04 (Narmin Mammadova)		@Raid-dev (Rauf Ahmadzada)
