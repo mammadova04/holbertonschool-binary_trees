@@ -1,10 +1,10 @@
-C - Binary Trees:
+# C - Binary Trees
 
 This repository contains implementations of various binary trees in C programming language. The provided implementations include basic binary trees, binary search trees (BST), AVL trees, and max binary heaps.
 
 Data Structures.
 
-Basic Binary Tree:
+## Basic Binary Tree
 
 A basic binary tree node is defined as follows:
 ```
